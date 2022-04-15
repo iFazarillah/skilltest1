@@ -1,0 +1,4 @@
+Nama	: Inka Fazarillah
+Umur 	: 26 Tahun 
+Stack	: Full-stact 
+Bahasa Pemrograman : Javascript
